@@ -1,3 +1,8 @@
+![order_confirmation](https://github.com/user-attachments/assets/45582169-6f24-41db-961d-535864268ba1)
+![place_order](https://github.com/user-attachments/assets/d64b8638-afbf-4068-b3b3-c48702a41168)
+![cart_view](https://github.com/user-attachments/assets/0efca892-2ab1-47a5-b117-5118758008a3)
+![restaurant_detail](https://github.com/user-attachments/assets/e6208c62-7571-4846-9789-1fe8bceef7f2)
+![restaurant_list](https://github.com/user-attachments/assets/5865d453-2c15-49b7-a9c8-297d5411697f)
 # FoodieExpress - Flutter Food Delivery App
 
 A Flutter application demonstrating a complete food ordering workflow using BLoC architecture and SOLID principles.
